@@ -6,7 +6,6 @@
 
 shinyUI(
   tagList(
-    useShinyalert(),
     useShinyjs(),
     navbarPage(
       title = "Phylogenetic Tree Subsetting",
